@@ -10,7 +10,7 @@ The frontend is built using React and provides a user interface to view and mana
 
 ## Deployment
 
-Frontend: Deployed on Vercel. Visit https://your-frontend-url.vercel.app to view the live application.
+Frontend: Deployed on Vercel. Visit [https://your-frontend-url.vercel.app](https://artists-transactions-fullstack.vercel.app/) to view the live application.
 Backend: Deployed on Render. Visit [https://your-backend-url.onrender.com](https://artists-transactions-backend.onrender.com/transactions) for the API endpoints.
 
 ### Features
